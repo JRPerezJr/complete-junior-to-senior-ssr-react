@@ -2,7 +2,7 @@
   "name": "ssr-react",
   "private": true,
   "version": "1.0.0",
-  "description": "An exercise in which we create a server side rendered React app",
+  "description": "A coding exercise in which we create a server side rendered React app",
   "author": "Juan Perez Jr.",
   "license": "MIT",
   "main": "server.js",
