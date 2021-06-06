@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to ssr-react 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/ssr-react" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/ssr-react.svg">
-  </a>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/node-14.17.0-blue.svg" />
   <img src="https://img.shields.io/badge/npm-6.14.13-blue.svg" />
   <a href="https://github.com/JRPerezJr/complete-junior-to-senior-ssr-react#readme" target="_blank">
