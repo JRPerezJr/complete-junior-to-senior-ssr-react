@@ -15,6 +15,9 @@ const Index = () => (
       <Link href="/about">
         <button>About</button>
       </Link>
+      <Link href="/robots">
+        <button>Robots</button>
+      </Link>
     </main>
     <footer>
       <a
