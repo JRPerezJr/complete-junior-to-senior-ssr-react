@@ -5,6 +5,14 @@
   "description": "A coding exercise in which we create a server side rendered React app",
   "author": "Juan Perez Jr.",
   "license": "MIT",
+  "homepage": "https://github.com/JRPerezJr/complete-junior-to-senior-ssr-react",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRPerezJr/complete-junior-to-senior-ssr-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JRPerezJr/complete-junior-to-senior-ssr-react/issues"
+  },
   "main": "server.js",
   "engines": {
     "node": "14.17.0",
