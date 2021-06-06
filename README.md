@@ -35,10 +35,10 @@ yarn
 yarn start
 ```
 
-## Run 🧪 tests
+## ⚙️ Dev mode
 
 ```sh
-yarn test
+yarn dev
 ```
 
 ## Author
