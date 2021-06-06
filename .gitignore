@@ -8,6 +8,13 @@
 # testing
 /coverage
 
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
 # misc
 .env.local
 .env.development.local
@@ -35,3 +42,5 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+
+
