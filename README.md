@@ -14,7 +14,7 @@
   </a>
 </p>
 
-> A coding exercise in which we create a server side rendered React app
+> A coding exercise in which we create a server side rendered React app using Nextjs
 
 ### 🏠 [Homepage](https://github.com/JRPerezJr/complete-junior-to-senior-ssr-react)
 
@@ -45,14 +45,14 @@ yarn test
 
 👤 **Juan Perez Jr.**
 
-* Github: [@JRPerezJr](https://github.com/JRPerezJr)
-* LinkedIn: [@devjperez](https://linkedin.com/in/devjperez)
-
+- Github: [@JRPerezJr](https://github.com/JRPerezJr)
+- LinkedIn: [@devjperez](https://linkedin.com/in/devjperez)
 
 ## 📝 License
 
 Copyright © 2021 [Juan Perez Jr.](https://github.com/JRPerezJr).<br />
 This project is [MIT](https://github.com/JRPerezJr/complete-junior-to-senior-ssr-react/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
