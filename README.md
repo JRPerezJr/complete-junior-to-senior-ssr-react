@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to ssr-react 👋</h1>
+<h1 align="center">Welcome to ssr-react with Nextjs 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/node-14.17.0-blue.svg" />
